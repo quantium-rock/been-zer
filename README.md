@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, welcome to Beenzer</h1>
 <h6 align="center">An app to share experiences with your friends through NFTs and geolocalization.</h6>
 
-- Android: https://play.google.com/store/apps/details?id=beenzer.dapp <br/>
-- IOS: Comming soon (on Apple Store review) <br/>
+- Play Store: https://play.google.com/store/apps/details?id=beenzer.dapp <br/>
+- Apple Store: Comming soon (on Apple Store review) <br/>
 - Landing: https://beenzer.app <br/>
 - DAO: https://dao.beenzer.app <br/>
 - Teaser: https://youtube.com/watch?v=RD9ErTGRhDg <br/>
